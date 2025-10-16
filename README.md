@@ -1,1 +1,3 @@
-Folder Web-Assignment contains my mid term 1 assignment for  web development subject.
+Folder "Web-Assignment" contains my mid term 1 assignment for  web designment workshop. </br>
+Folder "My Initial works" contains the my practice code materials. </br>
+Folder "Experiments" contains all the experiments or some projects given by my faculty.
