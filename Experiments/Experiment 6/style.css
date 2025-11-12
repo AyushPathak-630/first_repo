@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(196, 155, 155);
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+.container {
+  background-color: white;
+  width: 350px;
+  height: 550px;
+  margin: auto;
+  padding: 10px;
+  border: 3px solid green;
+  border-radius: 10px;
+}
+
+.image {
+  width: 340px;
+  height: 300px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+}
+
+.price{
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* Button */
+.btn{
+    background-color: rgb(157, 0, 255);
+    border-radius: 3px;
+    color: white;
+    height: 40px;
+    width: 100px;
+}
+
+.btn:hover {
+    background-color: green;
+}
+
+    
