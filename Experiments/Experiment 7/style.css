@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+.container a {
+    display: block;
+    background-color: rgb(135, 18, 213);
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration: none;
+}
+.inline a {
+    display: inline;
+    background-color: yellowgreen;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration: none;
+}
+
+.inline-block a {
+    display: inline-block;
+    background-color: rgb(226, 66, 90);
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration: none;
+    width: 150px;
+    height: 70px;
+}
+
+.float-menu{
+    float: left;
+    background-color: darkkhaki;
+    color: white;
+    
+
+}
