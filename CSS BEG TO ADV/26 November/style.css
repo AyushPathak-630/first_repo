@@ -1,0 +1,33 @@
+.container{
+background-color: black;
+width: 300px;
+height: 600px;
+display: flex;
+flex-direction: column;
+margin: auto;
+margin-top: 100px;
+}
+
+.b1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+    border-radius: 50%;
+} 
+
+.b2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin:auto;
+    border-radius: 50%;
+}
+
+.b3{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: auto;
+    border-radius: 50%;
+}
