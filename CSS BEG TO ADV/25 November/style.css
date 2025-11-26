@@ -1,0 +1,26 @@
+ body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: azure;
+        }
+
+        .container{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            background-color: aqua;
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        .box{
+            background-color: whitesmoke;
+            padding: 10px;
+            text-align: center ;
+            border-radius: 5px;
+        }
+
+        .box1{background-color: blueviolet}
+        .box2{background-color: yellow}
+        .box3{background-color: green}
+        .box4{background-color: pink}
+        .box5{background-color: brown}
