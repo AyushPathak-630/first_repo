@@ -1,0 +1,34 @@
+.outerB{
+    border: 2px solid black;
+    height: 200px;
+    width: 600px;
+    display: flex;
+    margin: auto; 
+    margin-top: 35%;   
+}
+.box{
+    border: 2px solid blueviolet;
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    margin: auto;
+    box-shadow: o 4px 8px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.circle{
+    background-color: blueviolet;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    margin-top: 5px;
+    
+    
+}
+.logo{
+    margin: auto;
+    color: white;
+    font-size: 20px;
+}
+
