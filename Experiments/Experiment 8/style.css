@@ -4,7 +4,7 @@
     width: 600px;
     display: flex;
     margin: auto; 
-    margin-top: 35%;   
+    margin-top: 20%;   
 }
 .box{
     border: 2px solid blueviolet;
@@ -12,7 +12,7 @@
     height: 150px;
     border-radius: 5%;
     margin: auto;
-    box-shadow: o 4px 8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 .circle{
