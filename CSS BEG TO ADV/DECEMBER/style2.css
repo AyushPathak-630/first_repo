@@ -1,0 +1,13 @@
+h1{
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.box { 
+  width: 400px;                      
+  background-color: yellow;      
+  padding: 20px;        
+  border: 25px solid blue;   
+  margin: 30px;  
+  text-align: center; 
+  margin:auto       
+}
