@@ -1,0 +1,48 @@
+body { 
+      margin: 0; 
+      font-family: Arial, sans-serif; 
+    } 
+    nav { 
+      display: flex; 
+      justify-content: space-between; 
+      align-items: center; 
+      background: #333; 
+      padding: 1rem; 
+    } 
+    .logo { 
+      color: #fff; 
+      font-size: 1.5rem; 
+    } 
+    .menu { 
+      display: none; 
+      flex-direction: column; 
+
+      background: #444; 
+      position: absolute; 
+      top: 60px; 
+      right: 20px; 
+      width: 200px; 
+    } 
+    .menu a { 
+      color: #fff; 
+      padding: 1em; 
+      display: block; 
+    } 
+    .hamburger { 
+      font-size: 2rem; 
+      color: #fff; 
+      cursor: pointer; 
+    } 
+    /* Tablet & Desktop */ 
+    @media (min-width: 768px) { 
+      .menu { 
+        display: flex; 
+        flex-direction: row; 
+        position: static; 
+        background: none; 
+        width: auto; 
+      } 
+      .hamburger { 
+        display: none; 
+      } 
+    }
