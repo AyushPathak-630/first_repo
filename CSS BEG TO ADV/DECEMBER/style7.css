@@ -1,0 +1,13 @@
+.container { 
+  display: flex;              /* Flexbox activate */ 
+  flex-direction: row;        /* Items left → right */ 
+  justify-content: space-around; /* Horizontal equal spacing */ 
+  align-items: center;        /* Vertical center alignment */ 
+  height: 200px;              /* Container height */ 
+  border: 2px dashed black;    /* Border around container */ 
+} 
+ 
+.item { 
+  background: lightblue;   /* Box background color */ 
+  padding: 20px;           /* Inner spacing */ 
+  margin: 5px;             /* Outer spacing between boxes */ } 
